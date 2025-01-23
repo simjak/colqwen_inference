@@ -1,6 +1,6 @@
-# ColQwen Inference Service
+# Serverless ColQwen Inference Service
 
-A FastAPI service for generating embeddings using ColQwen-compatible models, deployed on Modal platform.
+A serverless FastAPI service for generating embeddings using ColQwen-compatible models, deployed on [Modal](https://modal.com/) platform.
 This project builds upon the work from [Vision Is All You Need](https://github.com/Softlandia-Ltd/vision-is-all-you-need), adapting and extending its capabilities for embedding generation.
 
 ## Features
